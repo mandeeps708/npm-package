@@ -1,0 +1,22 @@
+{
+  "name": "mandy-npm-package",
+  "version": "1.0.1",
+  "description": "This is a very cool package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mandeeps708/npm-package.git"
+  },
+  "keywords": [
+    "devops"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mandeeps708/npm-package/issues"
+  },
+  "homepage": "https://github.com/mandeeps708/npm-package#readme"
+}
